@@ -1,0 +1,18 @@
+html, body {
+  margin: 0;
+  height: 100%;
+}
+#map {
+  margin-top: 3%;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+h2{
+  align-items: center;
+  text-align: center;
+}
+body{
+  background-color: lightgrey;
+}
